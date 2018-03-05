@@ -5,3 +5,6 @@ link to [this file](https://github.com/satzz/adabratest/blob/master/en/markdown/
 
 
 link to <a href="https://github.com/satzz/adabratest/blob/master/en/markdown/safe-img.md">this file</a>
+
+
+this is <strong>strong</strong> 
